@@ -1,10 +1,5 @@
 # -*- coding: utf-8 -*-
 
-# Meno: Sičáková, Júlia
-# Spolupráca: 
-# Použité zdroje: 
-# Čas: 
-
 # Podrobný popis je dostupný na: https://github.com/ianmagyar/introduction-to-python/blob/master/assignments/homeworks/homework3.md
 
 import random
