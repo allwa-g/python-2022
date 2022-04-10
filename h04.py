@@ -1,10 +1,5 @@
 # -*- coding: utf-8 -*-
 
-# Meno: Sičáková, Júlia
-# Spolupráca: 
-# Použité zdroje: prednasky, stackoverflow
-# Čas: 2 hod
-
 # Podrobný popis je dostupný na: https://github.com/ianmagyar/introduction-to-python/blob/master/assignments/homeworks/homework4.md
 
 
