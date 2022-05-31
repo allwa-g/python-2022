@@ -1,6 +1,4 @@
 # -*- coding: utf-8 -*-
-
-# Meno: Sičáková, Júlia
 # Spolupráca:
 # Použité zdroje:
 # Čas:
